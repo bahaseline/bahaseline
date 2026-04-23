@@ -23,8 +23,6 @@ Mobile Engineer with experience building applications across iOS (Swift), Androi
 </a>
 </p>
 
-<br/>
-
 ### 🛠️ Languages & Tools
 
 #### 📱 Mobile
