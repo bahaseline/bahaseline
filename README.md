@@ -9,7 +9,6 @@ Mobile Engineer with experience building applications across iOS (Swift), Androi
 
 <ul>
 <li>🏗️ Building a multi-target white-label iOS loyalty platform</li>
-<li>🤖 Designing an <b>autonomous mobile QA agent</b> — reads Jira tickets, boots emulators, validates acceptance criteria end-to-end</li>
 <li>📦 Shipped apps to both <b>Apple App Store</b> and <b>Google Play Store</b></li>
 <li>🎓 <b>MSc Web & Mobile Development</b> — University of York (CITY College)</li>
 </ul>
