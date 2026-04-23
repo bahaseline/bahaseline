@@ -8,12 +8,9 @@ Mobile Engineer with experience building applications across iOS (Swift), Androi
 </p>
 
 <ul>
-<li>🏗️ Building a multi-target white-label iOS loyalty platform</li>
 <li>📦 Shipped apps to both <b>Apple App Store</b> and <b>Google Play Store</b></li>
 <li>🎓 <b>MSc Web & Mobile Development</b> — University of York (CITY College)</li>
 </ul>
-
-<br/>
 
 ### 🔗 Connect with me
 
